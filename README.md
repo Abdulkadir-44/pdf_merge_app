@@ -80,5 +80,3 @@ Katkılar memnuniyetle karşılanır! Lütfen bir pull request açmadan önce bi
 
 ---
 
-## İletişim
-Her türlü soru ve öneri için [senin e-posta adresin veya GitHub profilin] üzerinden ulaşabilirsin. 
