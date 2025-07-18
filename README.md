@@ -75,7 +75,7 @@ Katkılar memnuniyetle karşılanır! Lütfen bir pull request açmadan önce bi
 ---
 
 
-## Ekran Görüntüsü (Opsiyonel)
+## Ekran Görüntüsü
 ![Proje Ekran Görüntüsü](project_image.png)
 
 ---
